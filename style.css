@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url("./images/bg-mobile.png");
+  background-image: url("fylo-data-storage-component-master/images/bg-mobile.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -162,7 +162,7 @@ body {
 
 @media screen and (min-width: 730px) {
   body {
-    background-image: url("./images/bg-desktop.png");
+    background-image: url("fylo-data-storage-component-master/images/bg-desktop.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
